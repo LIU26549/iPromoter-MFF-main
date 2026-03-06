@@ -14,7 +14,7 @@ iPromoter-MFF is a robust deep learning framework designed to identify prokaryot
 ## Preparation
 1) Download this repository; all the files are in the 'examples/iPromoter-MFF' folder.
 
-2) Download autoBioSeqpy from Please download the repository from the folder 'examples/autobioseqpy2.0_20200805'. All the necessary files are included there for the version of autoBioSeqpy.
+2) Download autoBioSeqpy from Please download the repository from the folder 'autobioseqpy2.0_20200805'. All the necessary files are included there for the version of autoBioSeqpy.
 
 3) After downloading and extracting the source files, merge the examples folder into the root directory of autoBioSeqpy. The code for this work will then be located in 'examples/iPromoter-MFF'.
 
